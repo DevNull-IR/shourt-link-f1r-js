@@ -10,4 +10,4 @@ The jQuery file in the `asset> js` folder is an incomplete version and is for se
 
 **Using jQuery file in `asset> js` folder is not recommended !!**
 
-**استفاده از فایل جی کوئری داخل پوشه `asset > js` پیشنهاد نمیشود !! **
+**استفاده از فایل جی کوئری داخل پوشه `asset > js` پیشنهاد نمیشود !!**
