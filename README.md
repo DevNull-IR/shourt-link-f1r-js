@@ -11,3 +11,9 @@ The jQuery file in the `asset> js` folder is an incomplete version and is for se
 **Using jQuery file in `asset> js` folder is not recommended !!**
 
 **استفاده از فایل جی کوئری داخل پوشه `asset > js` پیشنهاد نمیشود !!**
+
+# css
+
+The styles in this file have been removed from w3schools.com
+
+استایل های داخل این فایل از سایت w۳schools.com برداشته شده است
